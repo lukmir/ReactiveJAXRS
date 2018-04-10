@@ -1,4 +1,4 @@
-package com.application.controller;
+package com.application.controller.rest;
 
 import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;
